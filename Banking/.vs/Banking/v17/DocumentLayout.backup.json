@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\ledin\\downloads\\oop-main\\banking\\banking(duan)\\contronller\\accountcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\contronller\\accountcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\contronller\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\contronller\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\contronller\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\contronller\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\view\\transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\view\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\banking(duan)\\view\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trangchu.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Trangchu.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Trangchu.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Trangchu.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Trangchu.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:42.291Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Model\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Model\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Model\\AccountModel.cs",
+              "RelativeToolTip": "Banking(Duan)\\Model\\AccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:51:41.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountContronller.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "RelativeToolTip": "Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAjwK4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:19.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Contronller\\IController.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Contronller\\IController.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Contronller\\IController.cs",
+              "RelativeToolTip": "Banking(Duan)\\Contronller\\IController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:14.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "transactionLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\transactionLog.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\transactionLog.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\transactionLog.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\transactionLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:11:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trangchu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Trangchu.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Trangchu.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Trangchu.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\Trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:12:50.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Transaction.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Transaction.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:05:39.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Transaction.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\View\\Transaction.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Transaction.cs",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAkwJEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:39:54.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Contronller\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Contronller\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\ledin\\Downloads\\OOP-main\\Banking\\Banking(Duan)\\Contronller\\TransactionController.cs",
+              "RelativeToolTip": "Banking(Duan)\\Contronller\\TransactionController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAIwMcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:08:29.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

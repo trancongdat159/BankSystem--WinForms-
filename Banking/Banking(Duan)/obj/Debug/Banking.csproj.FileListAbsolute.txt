@@ -1,0 +1,257 @@
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.Login.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.View.Trangchu.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.View.Create_Customer.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.View.Create_Account.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.View.Employee.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.View.Branch.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking\obj\Debug\Banking.View.Login.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\bin\Debug\Banking.exe.config
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\bin\Debug\Banking.exe
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\bin\Debug\Banking.pdb
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.Login.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Branch.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Account.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Customer.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Employee.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Login.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Trangchu.resources
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.exe
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.pdb
+C:\Users\User\Desktop\Môn học\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Deposit_Amount.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Banking.exe.config
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Banking.exe
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Banking.pdb
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Ado.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\AdvancedDataGridView.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\AdvancedDataGridView.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.Login.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Branch.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Account.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Customer.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Deposit_Amount.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.dscustomer.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Employee.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Login.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.View.Trangchu.resources
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.csproj.Up2Date
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.exe
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\obj\Debug\Banking.pdb
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\Mon_Hoc\.net\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.AssemblyReference.cache
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.Login.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.Properties.Resources.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Branch.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Account.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Customer.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Employee.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Login.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Trangchu.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.GenerateResource.cache
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Transaction.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Banking.exe.config
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Banking.exe
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Banking.pdb
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Ado.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\AdvancedDataGridView.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Newtonsoft.Json.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Data.SqlClient.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.Helpers.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.Mvc.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.Razor.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Razor.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Z.Dapper.Plus.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\AdvancedDataGridView.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.pdb
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Newtonsoft.Json.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Data.SqlClient.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.Helpers.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.Mvc.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.Razor.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Razor.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\Z.Dapper.Plus.xml
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.Up2Date
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.exe
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.pdb
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.transactionLog.resources
+D:\1.DH_TMMT\dotnet\NET-main\NET-main\Banking\Banking(Duan)\obj\Debug\Banking.View.blanceAccount.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Banking.exe.config
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Banking.exe
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Banking.pdb
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Ado.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\AdvancedDataGridView.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.Helpers.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.Mvc.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.Razor.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\AdvancedDataGridView.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.pdb
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.Helpers.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.Mvc.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.Razor.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.Login.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Branch.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Account.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Create_Customer.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.blanceAccount.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.transactionLog.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Employee.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Login.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Trangchu.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.View.Transaction.resources
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.GenerateResource.cache
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.csproj.Up2Date
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.exe
+C:\Users\ledin\Downloads\OOP-main\Banking\Banking(Duan)\obj\Debug\Banking.pdb
